@@ -28,10 +28,9 @@ Crie um arquivo `.env` na raiz do projeto. Para que serve esse arquivo? Para cri
 
 #### Variáveis:
 
-`HOSTNAME`
-`MYSQL_USER`
-`MYSQL_PASSWORD`
-`JWT_SECRET`
+* `MYSQL_USER`
+* `MYSQL_PASSWORD`
+* `JWT_SECRET`
 
 
 ## Funcionamento
